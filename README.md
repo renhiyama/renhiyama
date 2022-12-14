@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @renhiyama
-- 👀 I’m interested in nodejs, tailwind, react, mongoose & rovel.js
-- 🌱 I’m currently learning tailwind
+- 👋 Hi, I’m Sayantan Das
+- 👀 I’m interested in nodejs, tailwind, react, surrealDB & ree.js
+- 🌱 I’m currently working on ree.js
 - 💞️ I’m collaborating on [Rovel Discord List](https://dscrdly.com)
 - 📫 How to reach me on discord: [link](https://discord.gg/E6PhZK4tU9)
 
