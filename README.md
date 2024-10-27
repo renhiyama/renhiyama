@@ -1,10 +1,4 @@
 - 👋 Hi, I’m Sayantan Das
-- 👀 I’m interested in nodejs, tailwind, react, surrealDB & ree.js
-- 🌱 I’m currently working on ree.js
-- 💞️ I’m collaborating on [Rovel Discord List](https://dscrdly.com)
-- 📫 How to reach me on discord: [link](https://discord.gg/E6PhZK4tU9)
-
-<!---
-renhiyama/renhiyama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in nodejs, tailwind, react, surrealDB & Ree.js, low-level linux development (drivers, syscalls, compositors and graphical acceleration, etc)
+- 🌱 I’m currently working on an upcoming Operating System with web technologies built-in, with User Experience being the topmost priority.
+- 📫 You can reach me at discord at `renhiyama.gg`, gmail at `renhiyama@rovelstars.com`, or on twitter/X at `ren_hiyama_gg`
